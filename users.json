@@ -1,0 +1,14 @@
+[
+  {
+    "users_id": 7,
+    "email": "abc@bcd.com"
+  },
+  {
+    "users_id": 2,
+    "email": "de@efg.com"
+  },
+  {
+    "users_id": 3,
+    "email": "exemple@gmail.com"
+  }
+]
